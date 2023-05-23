@@ -1,0 +1,45 @@
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\bin\Debug\net6.0\lab5STRUCTURES.exe
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\bin\Debug\net6.0\lab5STRUCTURES.deps.json
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\bin\Debug\net6.0\lab5STRUCTURES.runtimeconfig.json
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\bin\Debug\net6.0\lab5STRUCTURES.dll
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\bin\Debug\net6.0\lab5STRUCTURES.pdb
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.csproj.AssemblyReference.cache
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.AssemblyInfoInputs.cache
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.AssemblyInfo.cs
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.csproj.CoreCompileInputs.cache
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.dll
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\obj\Debug\net6.0\refint\lab5STRUCTURES.dll
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.pdb
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.genruntimeconfig.cache
+C:\Users\Youngerbrother\source\repos\lab5STRUCTURES\obj\Debug\net6.0\ref\lab5STRUCTURES.dll
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\bin\Debug\net6.0\lab5STRUCTURES.exe
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\bin\Debug\net6.0\lab5STRUCTURES.deps.json
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\bin\Debug\net6.0\lab5STRUCTURES.runtimeconfig.json
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\bin\Debug\net6.0\lab5STRUCTURES.dll
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\bin\Debug\net6.0\lab5STRUCTURES.pdb
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.csproj.AssemblyReference.cache
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.AssemblyInfoInputs.cache
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.AssemblyInfo.cs
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.dll
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\obj\Debug\net6.0\refint\lab5STRUCTURES.dll
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.pdb
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\obj\Debug\net6.0\lab5STRUCTURES.genruntimeconfig.cache
+C:\Users\vlade\Downloads\Telegram Desktop\lab5STRUCTURES\obj\Debug\net6.0\ref\lab5STRUCTURES.dll
+C:\Users\vlade\source\repos\5-lab-bazz\bin\Debug\net6.0\lab5STRUCTURES.exe
+C:\Users\vlade\source\repos\5-lab-bazz\bin\Debug\net6.0\lab5STRUCTURES.deps.json
+C:\Users\vlade\source\repos\5-lab-bazz\bin\Debug\net6.0\lab5STRUCTURES.runtimeconfig.json
+C:\Users\vlade\source\repos\5-lab-bazz\bin\Debug\net6.0\lab5STRUCTURES.dll
+C:\Users\vlade\source\repos\5-lab-bazz\bin\Debug\net6.0\lab5STRUCTURES.pdb
+C:\Users\vlade\source\repos\5-lab-bazz\obj\Debug\net6.0\lab5STRUCTURES.csproj.AssemblyReference.cache
+C:\Users\vlade\source\repos\5-lab-bazz\obj\Debug\net6.0\lab5STRUCTURES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlade\source\repos\5-lab-bazz\obj\Debug\net6.0\lab5STRUCTURES.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\5-lab-bazz\obj\Debug\net6.0\lab5STRUCTURES.AssemblyInfo.cs
+C:\Users\vlade\source\repos\5-lab-bazz\obj\Debug\net6.0\lab5STRUCTURES.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\5-lab-bazz\obj\Debug\net6.0\lab5STRUCTURES.dll
+C:\Users\vlade\source\repos\5-lab-bazz\obj\Debug\net6.0\refint\lab5STRUCTURES.dll
+C:\Users\vlade\source\repos\5-lab-bazz\obj\Debug\net6.0\lab5STRUCTURES.pdb
+C:\Users\vlade\source\repos\5-lab-bazz\obj\Debug\net6.0\lab5STRUCTURES.genruntimeconfig.cache
+C:\Users\vlade\source\repos\5-lab-bazz\obj\Debug\net6.0\ref\lab5STRUCTURES.dll
